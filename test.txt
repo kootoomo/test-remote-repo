@@ -1,3 +1,4 @@
 This is the first line
 This is the second line
 This line is created in remotebranch.
+SOME STRING HERE POINTLESS
